@@ -1,4 +1,6 @@
 # Star-Game
+https://jscomplete.com/p/star-match/embed?preview=1 
+https://jscomplete.com/learn/complete-intro-graphql/why-graphql 
 
 ![image](https://user-images.githubusercontent.com/51900501/225527240-9b3a13ad-0619-4226-9aa1-421189ef0132.png)
 ![image](https://user-images.githubusercontent.com/51900501/225527191-0e69ebb6-a766-4989-89fa-ef59adfc8345.png)
