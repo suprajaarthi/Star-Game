@@ -1,5 +1,6 @@
 # Star-Game
 - https://jscomplete.com/p/star-match/embed?preview=1 
+- https://jscomplete.com/playground/rgs3.8
 - https://jscomplete.com/learn/complete-intro-graphql/why-graphql 
 
 **Concepts**
